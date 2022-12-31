@@ -1,4 +1,4 @@
-# Sculpt_Smooth_Brush_Slider
+# Sculpt Smooth Brush Slider
 
 This Addon Adds a Slider in sculpt mode that Controls the Smooth Strength when you hold shift, regardless of which brush you are using
 
